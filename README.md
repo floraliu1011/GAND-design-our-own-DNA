@@ -1,3 +1,3 @@
 # GAND-design-our-own-DNA
 hhhhhhhh
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](GAND-design-our-own-DNA/计算流程.PNG)
